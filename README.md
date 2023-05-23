@@ -16,7 +16,7 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 
 | Req  | Detalle |
 | ------------- | ------------- |
-| `CRUD simple`  | 1.Banco \2.Direccion  |
+| `CRUD simple`  | 1.Banco <br> 2.Direccion  |
 | `CRUD dependiente`  | 3.CuentaBancaria 4.Usuario |
 | `Listado y Detalle`  | 3.CuentaBancaria 4.Usuario |
 

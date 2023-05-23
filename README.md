@@ -21,3 +21,10 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 | `Listado y Detalle`  | +Detalle del cliente con sus cuentas bancarias filtradas por banco. |
 | `CUU/Epic`  | Generar recomendacion en base a los parametros elegidos. |
 
+## Requerimientos no funcionales
+
+| `Backend`  | Node.js + Express  |
+| `Frontend`  | Angular |
+| `DB`  | SQL Server |
+
+

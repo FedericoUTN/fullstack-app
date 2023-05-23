@@ -11,3 +11,11 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 ## Modelo
 ![image](https://github.com/FedericoUTN/fullstack-app/assets/47526078/9d5c7d26-cb17-454d-bc24-897b3d32de50)
 
+## Alcance Funcional
+### Alcance Mínimo
+
+| Req  | Detalle |
+| ------------- | ------------- |
+| `CRUD simple`  | 1.Banco \n 2.Direccion |
+| `CRUD dependiente`  | Content Cell  |
+

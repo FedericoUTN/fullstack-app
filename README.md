@@ -19,7 +19,7 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 | `CRUD simple`  | [ ]1.Banco <br> [ ]2.Direccion  |
 | `CRUD dependiente`  | [ ]3.CuentaBancaria <br> [ ]4.Usuario |
 | `Listado y Detalle`  | [ ]Detalle del cliente con sus cuentas bancarias filtradas por banco. <br> [ ]Detalle de los bancos y sus intereses, filtrado por tasa de interes.|
-| `CUU/Epic`  | [ ]Generar recomendacion en base a los parametros elegidos <br> [ ]Generar texto con prompt ChatGPT|
+| `CUU/Epic`  | [ ]Generar recomendacion en base a los parametros elegidos <br> [ ]Generar texto con prompt OpenIA|
 
 ## Requerimientos no funcionales
 

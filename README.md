@@ -16,13 +16,15 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 
 | Req  | Detalle |
 | ------------- | ------------- |
-| `CRUD simple`  | 1.Banco <br> 2.Direccion  |
-| `CRUD dependiente`  | 3.CuentaBancaria <br> 4.Usuario |
-| `Listado y Detalle`  | +Detalle del cliente con sus cuentas bancarias filtradas por banco. |
-| `CUU/Epic`  | Generar recomendacion en base a los parametros elegidos. |
+| `CRUD simple`  | [ ]1.Banco <br> [ ]2.Direccion  |
+| `CRUD dependiente`  | [ ]3.CuentaBancaria <br> [ ]4.Usuario |
+| `Listado y Detalle`  | [ ]Detalle del cliente con sus cuentas bancarias filtradas por banco. <br> [ ]Detalle de los bancos y sus intereses, filtrado por tasa de interes.|
+| `CUU/Epic`  | [ ]Generar recomendacion en base a los parametros elegidos <br> [ ]Generar texto con prompt ChatGPT|
 
 ## Requerimientos no funcionales
 
+| Se | Stack |
+| ------------- | ------------- |
 | `Backend`  | Node.js + Express  |
 | `Frontend`  | Angular |
 | `DB`  | SQL Server |

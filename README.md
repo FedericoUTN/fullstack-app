@@ -2,7 +2,7 @@
 ## Grupo
 ### Integrantes 
 + 41886 - Federico Vallejo
-+ - Enzo Vera
++ 50192 - Enzo Vera
 
 ## Tema
 **Descripción**

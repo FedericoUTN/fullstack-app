@@ -27,6 +27,6 @@ Una Web que al registrarse, ofrece recomendaciones en base a los datos del usuar
 | ------------- | ------------- |
 | `Backend`  | NestJS  |
 | `Frontend`  | Angular |
-| `DB`  | SQL Server |
+| `DB`  | MySQL |
 
 
